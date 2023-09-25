@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ARCHIVOS\\CursoNetAvanzado\\CursoNetAvanzado.csproj",
+      "projectUniqueName": "D:\\ARCHIVOS\\CURSO .NET\\git-repo\\CursoNetAvanzado\\CursoNetAvanzado.csproj",
       "projectName": "CursoNetAvanzado",
-      "projectPath": "D:\\ARCHIVOS\\CursoNetAvanzado\\CursoNetAvanzado.csproj",
+      "projectPath": "D:\\ARCHIVOS\\CURSO .NET\\git-repo\\CursoNetAvanzado\\CursoNetAvanzado.csproj",
       "packagesPath": "C:\\Users\\Damián\\.nuget\\packages\\",
-      "outputPath": "D:\\ARCHIVOS\\CursoNetAvanzado\\obj\\",
+      "outputPath": "D:\\ARCHIVOS\\CURSO .NET\\git-repo\\CursoNetAvanzado\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
